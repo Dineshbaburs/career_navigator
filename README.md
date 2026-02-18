@@ -105,7 +105,7 @@ Career Navigator addresses this gap by converting static resumes into **actionab
 - [**Dinesh Babu R S**](https://github.com/Dineshbaburs)
 - [**Jashwanth B S**](https://github.com/Devillance079)
 - [**Prisha S**](https://github.com/prisha-11-07)
-- [**Sankeeth V E**](https://github.com/)
+- [**Sankeeth V E**](https://github.com/Sankeeth-23)
 
 
 ---
